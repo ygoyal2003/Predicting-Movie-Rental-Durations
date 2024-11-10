@@ -1,4 +1,3 @@
-# Start your coding from below
 import pandas as pd
 import numpy as np
 
